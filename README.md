@@ -1,4 +1,3 @@
-### 📌 **GitHub README File (Professional & Attractive)**
 ```md
 # 🚀 User Management API 🔐
 
