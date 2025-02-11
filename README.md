@@ -27,7 +27,7 @@ A secure and scalable User Authentication API built with **ASP.NET Core, MongoDB
 ## 🚀 **Getting Started**
 ### 🔹 **Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/UserManagementAPI.git
+git clone https://github.com/shaharrazlan/UserManagementAPI.git
 cd UserManagementAPI
 ```
 
