@@ -1,0 +1,19 @@
+# Ignore build and dependency files
+bin/
+obj/
+.vscode/
+logs/
+.env
+
+# Ignore user-specific settings
+*.user
+*.suo
+*.swp
+*.bak
+
+# Ignore secrets
+appsettings.Development.json
+appsettings.json
+
+# Ignore IDE files
+*.vs
