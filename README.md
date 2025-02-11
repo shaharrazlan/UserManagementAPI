@@ -2,13 +2,11 @@
 ```md
 # 🚀 User Management API 🔐
 
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb)
-![.NET](https://img.shields.io/badge/Framework-ASP.NET%20Core-blueviolet?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=csharp)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb)
+![.NET](https://img.shields.io/badge/Framework-ASP.NET%20Core-blueviolet?style=flat&logo=dotnet)
+![C#](https://img.shields.io/badge/Language-C%23-blue?style=flat&logo=csharp)
 
 A secure and scalable User Authentication API built with **ASP.NET Core, MongoDB, and JWT Authentication.**
-
 
 ---
 
