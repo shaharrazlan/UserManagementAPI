@@ -7,7 +7,8 @@
 ![C#](https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=csharp)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-### **A secure and scalable User Authentication API built with ASP.NET Core, MongoDB, and JWT Authentication.**
+A secure and scalable User Authentication API built with **ASP.NET Core, MongoDB, and JWT Authentication.**
+
 
 ---
 
