@@ -110,3 +110,6 @@ app.MapControllers();
 Console.WriteLine("🚀 Application is running...");
 
 app.Run();
+
+public partial class Program { } // ✅ Make 'Program' accessible for tests
+
