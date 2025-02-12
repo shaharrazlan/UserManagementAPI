@@ -31,7 +31,6 @@ namespace UserManagementAPI.Controllers
             }
             
             var emailClaim = User.FindFirst(ClaimTypes.Email)?.Value;
-            Console.WriteLine($"🔑 Extracted Token: {token}");
 
             if (string.IsNullOrEmpty(emailClaim))
             {

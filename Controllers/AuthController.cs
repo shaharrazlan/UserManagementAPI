@@ -14,12 +14,12 @@ namespace UserManagementAPI.Controllers
     public class AuthController : ControllerBase
     {
         private readonly IUserService _userService;
-        private readonly IConfiguration _configuration;
+        
 
-        public AuthController(IUserService userService, IConfiguration configuration)
+        public AuthController(IUserService userService)
         {
             _userService = userService;
-            _configuration = configuration;
+            
         }
 
         [HttpPost("register")]
